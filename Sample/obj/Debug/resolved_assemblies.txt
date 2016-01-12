@@ -1,0 +1,14 @@
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\Sample.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\SwipeMenuRecyclerView.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\System.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\Xamarin.Android.Support.Design.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\xamarin\SwipeMenuRecyclerView\Sample\obj\Debug\assemblies\System.ServiceModel.Internals.dll

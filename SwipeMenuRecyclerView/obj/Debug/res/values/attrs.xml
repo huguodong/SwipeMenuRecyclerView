@@ -1,0 +1,1 @@
+<resources><declare-styleable name="SwipeMenu"><attr name="anim_duration" format="integer" /></declare-styleable></resources>
